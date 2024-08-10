@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|d:\\visual studio programs\\dot net projects\\web api project\\contactsapi\\models\\updatecontactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|solutionrelative:models\\updatecontactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|d:\\visual studio programs\\dot net projects\\web api project\\contactsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|d:\\visual studio programs\\dot net projects\\web api project\\contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|d:\\visual studio programs\\dot net projects\\web api project\\contactsapi\\data\\contactsapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|solutionrelative:data\\contactsapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|d:\\visual studio programs\\dot net projects\\web api project\\contactsapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|d:\\visual studio programs\\dot net projects\\web api project\\contactsapi\\models\\addcontactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|solutionrelative:models\\addcontactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|d:\\visual studio programs\\dot net projects\\web api project\\contactsapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D882D6F9-F5D2-4E69-BD62-F2CB99508180}|ContactsAPI.csproj|solutionrelative:controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T10:08:07.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateContactRequest.cs",
+              "DocumentMoniker": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Models\\UpdateContactRequest.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateContactRequest.cs",
+              "ToolTip": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Models\\UpdateContactRequest.cs",
+              "RelativeToolTip": "Models\\UpdateContactRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:49:03.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddContactRequest.cs",
+              "DocumentMoniker": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Models\\AddContactRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AddContactRequest.cs",
+              "ToolTip": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Models\\AddContactRequest.cs",
+              "RelativeToolTip": "Models\\AddContactRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:19:12.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:54:59.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:08:57.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsAPIDbContext.cs",
+              "DocumentMoniker": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Data\\ContactsAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ContactsAPIDbContext.cs",
+              "ToolTip": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Data\\ContactsAPIDbContext.cs",
+              "RelativeToolTip": "Data\\ContactsAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:59:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual Studio Programs\\DOT NET Projects\\Web API Project\\ContactsAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:53:18.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
